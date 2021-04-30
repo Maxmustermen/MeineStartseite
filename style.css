@@ -1,0 +1,52 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 27.12.2016, 17:22:01
+    Author     : fabia
+*/
+html
+{
+    font-family: sans-serif;
+    font-weight: lighter;
+    color: lightgray;
+    
+background-color: black;    background-size: 120%;
+    width: 100%;
+    display: flex;
+}
+
+/*main>div
+{
+    
+    width: 100%;
+    text-align: center;
+    justify-content: center;
+    display: flex;
+}
+main>div>div
+{
+    
+    margin: 5em;
+    width: 19%;
+    height: 10%;
+    margin-bottom: 2em;
+    background-color: rgba(60,60,60,0.01); 
+    hyphens: auto;
+    display: flex;
+    
+}*/
+span
+{
+    margin: 3%;
+    width: 8%;
+    height: 10%;
+    margin-bottom: 1em;
+    background-color: rgba(60,60,60,0.01); 
+    hyphens: auto;
+    display: inline-block;
+}
+
+http://www.clker.com/cliparts/L/e/S/6/F/V/carbon-fiber-wallpaper-x.svg
